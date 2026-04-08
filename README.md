@@ -6,7 +6,7 @@
 
 **Matched-filter–based continuous regression framework for quantifying gilthead seabream feeding intensity from passive acoustic signals, validated via tree-based machine learning models**
 
-![overview](overview.jpg)
+![Screenshot](Screenshot%202026-02-26%20212040-1.png)
 
 ---
 
