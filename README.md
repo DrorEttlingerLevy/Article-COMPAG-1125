@@ -2,11 +2,11 @@
 
 **Authors: [Dror Ettlinger-Levy](https://www.semanticscholar.org/author/Dror-Ettlinger-Levy/2404163211), [S. Kendler](https://www.semanticscholar.org/author/S.-Kendler/34198721), [Iris Meiri Ashkenazi](https://www.semanticscholar.org/author/Iris-Meiri-Ashkenazi/2409508571), [Shay Tal](https://www.semanticscholar.org/author/Shay-Tal/2404216128), [B. Fishbain](https://www.semanticscholar.org/author/B.-Fishbain/47133884)**
 
-![[Screenshot 2026-02-26 212040-1.png]]
+![Screenshot](Screenshot%202026-02-26%20212040-1.png)
 
 **Matched-filter–based continuous regression framework for quantifying gilthead seabream feeding intensity from passive acoustic signals, validated via tree-based machine learning models**
 
-![Screenshot](Screenshot%202026-02-26%20212040-1.png)
+![overview](overview.jpg)
 
 ---
 
